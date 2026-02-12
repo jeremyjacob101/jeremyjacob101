@@ -15,7 +15,7 @@
 
 ### Current Projects
 
-- 🎞️ **[Kartiseret](https://github.com/jeremyjacob101/KartiseretV2)** - Israel's premiere movie-ticketing experience
+- 🎞️ **[Kartiseret](https://github.com/jeremyjacob101/Kartiseret)** - Israel's premiere movie-ticketing experience
 - 🎨 **[ColorTime](https://github.com/jeremyjacob101/ColorTime)** - Reimagine your watch as a beautiful personal color gradient
 - 🗓️ **[CustomCal](https://github.com/jeremyjacob101/CustomCal)** - Bulk edit/remove calendar subscriptions on MacOS (iOS soon)
 
