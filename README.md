@@ -18,6 +18,7 @@
 - 🎞️ **[Kartiseret](https://github.com/jeremyjacob101/Kartiseret)** - Israel's premiere movie-ticketing experience
 - 🎨 **[ColorTime](https://github.com/jeremyjacob101/ColorTime)** - Reimagine your watch as a beautiful personal color gradient
 - 🗓️ **[CustomCal](https://github.com/jeremyjacob101/CustomCal)** - Bulk edit/remove calendar subscriptions on MacOS (iOS soon)
+- 🌈 **[ColorCal](https://github.com/jeremyjacob101/ColorCal)** - View your calendar simply by its events' colors
 
 <!--
 **jeremyjacob101/jeremyjacob101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
