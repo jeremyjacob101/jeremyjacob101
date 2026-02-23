@@ -20,6 +20,7 @@
 - 🗓️ **[CustomCal](https://github.com/jeremyjacob101/CustomCal)** - Bulk edit/remove calendar subscriptions on MacOS (iOS soon)
 - 🌈 **[ColorCal](https://github.com/jeremyjacob101/ColorCal)** - View your calendar simply by its events' colors
 - ⏰ **[ShabbatAlarmClock](https://github.com/jeremyjacob101/ShabbatAlarmClock)** - Repeating weekly self-muting Shabbat alarms
+- ⏰ **[FeedScroller](https://github.com/jeremyjacob101/FeedScroller)** - Automatically scroll to your last-read posts in your socials
 
 <!--
 **jeremyjacob101/jeremyjacob101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
