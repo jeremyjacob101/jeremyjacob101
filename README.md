@@ -1,4 +1,4 @@
-## Hi, I'm Jeremy 👋
+# Hi, I'm Jeremy 👋
 
 📍 **Israel**
 
@@ -13,7 +13,7 @@
 
 > Building a better internet—one that puts users first.
 
-### Current Projects
+## Current Projects
 
 - 🎞️ **[Kartiseret](https://github.com/jeremyjacob101/Kartiseret)** - Israel's premier movie-ticketing experience
 - 🎨 **[ColorTime](https://github.com/jeremyjacob101/ColorTime)** - Reimagine your watch as a beautiful personal color gradient
