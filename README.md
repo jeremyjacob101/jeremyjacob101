@@ -20,7 +20,17 @@
   <a href="https://schedulearn.com">
     <img src="./logo.png" alt="Schedulearn logo" height="15" />
   </a>
-  <strong><a href="https://schedulearn.com">Schedulearn</a></strong> — Frontend Developer
+  <a href="https://schedulearn.com">
+    <strong>Schedulearn</strong>
+  </a> — Frontend Developer
+</p>
+<p>
+  <a href="https://www.seret.site">
+    <img src="./logo2.png" alt="Schedulearn logo" height="15" />
+  </a>
+  <a href="https://www.seret.site">
+    <strong>Kartiseret</strong>
+  </a> — Creator | Fullstack Developer
 </p>
 
 ## Current Projects
