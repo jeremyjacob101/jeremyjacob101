@@ -17,20 +17,13 @@
 ## Experience
 
 <p>
-  <a href="https://schedulearn.com">
-    <img src="./logo.png" alt="Schedulearn logo" height="15" />
-  </a>
-  <a href="https://schedulearn.com">
-    <strong>Schedulearn</strong>
-  </a> — Frontend Developer
+  <a href="https://schedulearn.com"><img src="./logo.png" alt="Schedulearn logo" height="15" /></a>
+  <a href="https://schedulearn.com"><strong>Schedulearn</strong></a> — Frontend Developer
 </p>
+
 <p>
-  <a href="https://seret.site">
-    <img src="./logo2.png" alt="Kartiseret logo" height="15" />
-  </a>
-  <a href="https://seret.site">
-    <strong>Kartiseret</strong>
-  </a> — Creator | Fullstack Developer
+  <a href="https://seret.site"><img src="./logo2.png" alt="Kartiseret logo" height="15" /></a>
+  <a href="https://seret.site"><strong>Kartiseret</strong></a> — Creator | Fullstack Developer
 </p>
 
 ## Current Projects
