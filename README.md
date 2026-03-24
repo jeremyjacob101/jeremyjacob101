@@ -18,7 +18,7 @@
 
 <p>
   <a href="https://schedulearn.com">
-    <img src="./logo.png" alt="Schedulearn logo" height="20" />
+    <img src="./logo.png" alt="Schedulearn logo" height="18" />
   </a>
   <strong><a href="https://schedulearn.com">Schedulearn</a></strong> — Frontend Developer
 </p>
