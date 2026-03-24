@@ -14,9 +14,12 @@
 
 > Building a better internet—one that puts users first.
 
-## Employed
+## Experience
 
-- ![Schedulearn logo](./logo.png) - **Schedulearn** - Frontend Developer
+<p>
+  <img src="./logo.png" alt="Schedulearn logo" width="40" style="vertical-align: middle;" />
+  <strong><a href="https://schedulearn.com">Schedulearn</a></strong> — Frontend Developer
+</p>
 
 ## Current Projects
 
