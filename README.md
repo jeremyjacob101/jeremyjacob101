@@ -14,6 +14,10 @@
 
 > Building a better internet—one that puts users first.
 
+## Employed
+
+- ![Schedulearn logo](./logo.png) - **Schedulearn** - Frontend Developer
+
 ## Current Projects
 
 - 🎞️ **[Kartiseret](https://github.com/jeremyjacob101/Kartiseret)** - Israel's premier movie-ticketing experience
