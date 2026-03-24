@@ -17,7 +17,9 @@
 ## Experience
 
 <p>
-  <img src="./logo.png" alt="Schedulearn logo" width="40" style="vertical-align: middle;" />
+  <a href="https://schedulearn.com">
+    <img src="./logo.png" alt="Schedulearn logo" height="20" />
+  </a>
   <strong><a href="https://schedulearn.com">Schedulearn</a></strong> — Frontend Developer
 </p>
 
