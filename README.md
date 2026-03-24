@@ -25,10 +25,10 @@
   </a> — Frontend Developer
 </p>
 <p>
-  <a href="https://www.seret.site">
-    <img src="./logo2.png" alt="Schedulearn logo" height="15" />
+  <a href="https://seret.site">
+    <img src="./logo2.png" alt="Kartiseret logo" height="15" />
   </a>
-  <a href="https://www.seret.site">
+  <a href="https://seret.site">
     <strong>Kartiseret</strong>
   </a> — Creator | Fullstack Developer
 </p>
