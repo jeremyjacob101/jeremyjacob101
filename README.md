@@ -37,6 +37,7 @@
 
 - 🎞️ **[Kartiseret](https://github.com/jeremyjacob101/Kartiseret)** - Israel's premier movie-ticketing experience
 - ⏰ **[ShabbatAlarmClock](https://github.com/jeremyjacob101/ShabbatAlarmClock)** - Repeating weekly self-muting Shabbat alarms
+- 🦩 **[Venery](https://github.com/jeremyjacob101/Venery)** - Daily collective nouns for animals
 - 🖥️ **[IINAplex](https://github.com/jeremyjacob101/IINAplex)** - Play Plex videos in IINA natively
 - 🎨 **[ColorTime](https://github.com/jeremyjacob101/ColorTime)** - Reimagine your watch as a beautiful personal color gradient
 - 🗓️ **[CustomCal](https://github.com/jeremyjacob101/CustomCal)** - Bulk edit/remove calendar subscriptions on MacOS (iOS soon)
