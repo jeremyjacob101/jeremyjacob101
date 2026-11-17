@@ -24,13 +24,16 @@
 ## Experience
 
 <p>
-  <a href="https://schedulearn.com"><img src="./logo.png" alt="Schedulearn logo" height="15" /></a>
-  <a href="https://schedulearn.com"><strong>Schedulearn</strong></a> — Frontend Developer
+  <a href="https://seret.site"><img src="./logo3.png" alt="Tissue Dynamics logo" height="15" /></a>
+  <a href="https://seret.site"><strong>Tissue Dynamics</strong></a> — Fullstack Developer
 </p>
-
 <p>
   <a href="https://seret.site"><img src="./logo2.png" alt="Kartiseret logo" height="15" /></a>
   <a href="https://seret.site"><strong>Kartiseret</strong></a> — Creator | Fullstack Developer
+</p>
+<p>
+  <a href="https://schedulearn.com"><img src="./logo.png" alt="Schedulearn logo" height="15" /></a>
+  <a href="https://schedulearn.com"><strong>Schedulearn</strong></a> — Frontend Developer
 </p>
 
 ## Current Projects
