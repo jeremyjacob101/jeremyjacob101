@@ -24,7 +24,7 @@
 ## Experience
 
 <p>
-  <a href="https://seret.site"><img src="./logo3.png" alt="Tissue Dynamics logo" height="15" /></a>
+  <a href="https://seret.site"><img src="./logo4.png" alt="Tissue Dynamics logo" height="15" /></a>
   <a href="https://seret.site"><strong>Tissue Dynamics</strong></a> — Fullstack Developer
 </p>
 <p>
